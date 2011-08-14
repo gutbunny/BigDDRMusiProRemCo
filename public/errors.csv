@@ -1,0 +1,784 @@
+"12 Aug 2011 07:49:29","/homepages/36/d378030953/htdocs/school/application/layouts/scripts/layout.phtml:
+      41","(Notice) Undefined index:  firstname"
+"12 Aug 2011 07:49:29","/homepages/36/d378030953/htdocs/school/application/layouts/scripts/layout.phtml:
+      41","(Notice) Undefined index:  lastname"
+"12 Aug 2011 07:49:58","/homepages/36/d378030953/htdocs/school/application/layouts/scripts/layout.phtml:
+      41","(Notice) Undefined index:  firstname"
+"12 Aug 2011 07:49:58","/homepages/36/d378030953/htdocs/school/application/layouts/scripts/layout.phtml:
+      41","(Notice) Undefined index:  lastname"
+"12 Aug 2011 07:50:34","/homepages/36/d378030953/htdocs/school/application/layouts/scripts/layout.phtml:
+      41","(Notice) Undefined index:  firstname"
+"12 Aug 2011 07:50:34","/homepages/36/d378030953/htdocs/school/application/layouts/scripts/layout.phtml:
+      41","(Notice) Undefined index:  lastname"
+"12 Aug 2011 07:54:38","/homepages/36/d378030953/htdocs/school/application/forms/User.php:
+      12","() Declaration of Application_Form_User::init() should be compatible with that of Zend_Form::init()"
+"12 Aug 2011 07:54:51","/homepages/36/d378030953/htdocs/school/application/forms/User.php:
+      12","() Declaration of Application_Form_User::init() should be compatible with that of Zend_Form::init()"
+"12 Aug 2011 07:55:45","/homepages/36/d378030953/htdocs/school/application/forms/User.php:
+      12","() Declaration of Application_Form_User::init() should be compatible with that of Zend_Form::init()"
+"12 Aug 2011 07:56:13","/homepages/36/d378030953/htdocs/school/application/forms/User.php:
+      12","() Declaration of Application_Form_User::init() should be compatible with that of Zend_Form::init()"
+"12 Aug 2011 07:56:47","/homepages/36/d378030953/htdocs/school/application/forms/User.php:
+      12","() Declaration of Application_Form_User::init() should be compatible with that of Zend_Form::init()"
+"12 Aug 2011 07:57:10","/homepages/36/d378030953/htdocs/school/application/forms/User.php:
+      12","() Declaration of Application_Form_User::init() should be compatible with that of Zend_Form::init()"
+"12 Aug 2011 07:58:08","/homepages/36/d378030953/htdocs/school/application/forms/User.php:
+      12","() Declaration of Application_Form_User::init() should be compatible with that of Zend_Form::init()"
+"12 Aug 2011 07:58:33","/homepages/36/d378030953/htdocs/school/application/controllers/UserController.php:
+      47","(Notice) Undefined variable: form"
+"12 Aug 2011 08:10:03","/homepages/36/d378030953/htdocs/school/application/forms/User.php:
+      17","(Notice) Undefined variable: form"
+"12 Aug 2011 16:30:22","/homepages/36/d378030953/htdocs/school/application/views/scripts/projects/index.phtml:
+      7","(Notice) Trying to get property of non-object"
+"12 Aug 2011 16:31:33","/homepages/36/d378030953/htdocs/school/application/views/scripts/projects/index.phtml:
+      7","(Notice) Trying to get property of non-object"
+"12 Aug 2011 16:32:10","/homepages/36/d378030953/htdocs/school/application/views/scripts/projects/index.phtml:
+      7","(Notice) Trying to get property of non-object"
+"12 Aug 2011 16:32:51","/homepages/36/d378030953/htdocs/school/application/views/scripts/projects/index.phtml:
+      7","(Notice) Trying to get property of non-object"
+"12 Aug 2011 16:36:30","/homepages/36/d378030953/htdocs/school/application/controllers/ProjectsController.php:
+      18","() Non-static method UserController::checkSession() should not be called statically, assuming $this from incompatible context"
+"12 Aug 2011 16:37:49","/homepages/36/d378030953/htdocs/school/library/Zend/Controller/Action.php:
+      127","() Argument 1 passed to Zend_Controller_Action::__construct() must be an instance of Zend_Controller_Request_Abstract, none given, called in /homepages/36/d378030953/htdocs/school/application/controllers/ProjectsController.php on line 18 and defined"
+"12 Aug 2011 17:10:57","/homepages/36/d378030953/htdocs/school/library/Zend/Controller/Action.php:
+      127","() Argument 1 passed to Zend_Controller_Action::__construct() must be an instance of Zend_Controller_Request_Abstract, none given, called in /homepages/36/d378030953/htdocs/school/application/controllers/ProjectsController.php on line 18 and defined"
+"12 Aug 2011 17:11:05","/homepages/36/d378030953/htdocs/school/library/Zend/Controller/Action.php:
+      127","() Argument 1 passed to Zend_Controller_Action::__construct() must be an instance of Zend_Controller_Request_Abstract, none given, called in /homepages/36/d378030953/htdocs/school/application/controllers/ProjectsController.php on line 18 and defined"
+"12 Aug 2011 17:26:17","/homepages/36/d378030953/htdocs/school/library/Zend/Controller/Action.php:
+      127","() Argument 1 passed to Zend_Controller_Action::__construct() must be an instance of Zend_Controller_Request_Abstract, none given, called in /homepages/36/d378030953/htdocs/school/application/controllers/ProjectsController.php on line 19 and defined"
+"12 Aug 2011 17:31:47","/homepages/36/d378030953/htdocs/school/application/controllers/ProjectsController.php:
+      19","() Non-static method UserController::checkSession() should not be called statically, assuming $this from incompatible context"
+"12 Aug 2011 17:36:32","/homepages/36/d378030953/htdocs/school/library/Zend/Controller/Action.php:
+      127","() Argument 1 passed to Zend_Controller_Action::__construct() must be an instance of Zend_Controller_Request_Abstract, none given, called in /homepages/36/d378030953/htdocs/school/application/controllers/ProjectsController.php on line 19 and defined"
+"12 Aug 2011 17:38:59","/homepages/36/d378030953/htdocs/school/library/Zend/Controller/Action.php:
+      127","() Argument 1 passed to Zend_Controller_Action::__construct() must be an instance of Zend_Controller_Request_Abstract, none given, called in /homepages/36/d378030953/htdocs/school/application/controllers/ProjectsController.php on line 25 and defined"
+"12 Aug 2011 17:57:15","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      59","(Notice) Undefined index:  email"
+"12 Aug 2011 17:58:02","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      59","(Notice) Undefined index:  email"
+"12 Aug 2011 17:58:09","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      59","(Notice) Undefined index:  email"
+"12 Aug 2011 17:58:42","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      59","(Notice) Undefined index:  email"
+"12 Aug 2011 17:58:47","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      59","(Notice) Undefined index:  email"
+"12 Aug 2011 18:01:26","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      59","(Notice) Undefined index:  email"
+"12 Aug 2011 18:01:30","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      59","(Notice) Undefined index:  email"
+"12 Aug 2011 18:03:00","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      59","(Notice) Undefined index:  email"
+"12 Aug 2011 18:04:38","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      59","(Notice) Undefined index:  email"
+"12 Aug 2011 18:05:42","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      59","(Notice) Undefined index:  email"
+"12 Aug 2011 18:06:56","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      59","(Notice) Undefined index:  email"
+"12 Aug 2011 18:06:56","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      60","(Notice) Undefined index:  email"
+"12 Aug 2011 18:07:55","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      59","(Notice) Undefined index:  email"
+"12 Aug 2011 18:07:55","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      60","(Notice) Undefined index:  email"
+"12 Aug 2011 18:08:39","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      59","(Notice) Undefined index:  email"
+"12 Aug 2011 18:08:39","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      60","(Notice) Undefined index:  email"
+"12 Aug 2011 18:09:10","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      59","(Notice) Undefined index:  email"
+"12 Aug 2011 18:09:13","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      59","(Notice) Undefined index:  email"
+"12 Aug 2011 18:09:20","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      59","(Notice) Undefined index:  email"
+"12 Aug 2011 18:10:44","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      59","(Notice) Undefined index:  email"
+"12 Aug 2011 18:10:44","/homepages/36/d378030953/htdocs/school/application/controllers/ProjectsController.php:
+      20","(Notice) Undefined index:  email"
+"12 Aug 2011 18:11:27","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      59","(Notice) Undefined index:  email"
+"12 Aug 2011 18:11:27","/homepages/36/d378030953/htdocs/school/application/controllers/ProjectsController.php:
+      20","(Notice) Undefined index:  email"
+"12 Aug 2011 18:11:32","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      59","(Notice) Undefined index:  email"
+"12 Aug 2011 18:11:32","/homepages/36/d378030953/htdocs/school/application/controllers/ProjectsController.php:
+      20","(Notice) Undefined index:  email"
+"12 Aug 2011 18:15:22","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      59","(Notice) Undefined index:  email"
+"12 Aug 2011 18:15:22","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      60","(Notice) Undefined index:  email"
+"12 Aug 2011 18:15:22","/homepages/36/d378030953/htdocs/school/application/controllers/ProjectsController.php:
+      20","(Notice) Undefined index:  email"
+"12 Aug 2011 18:16:24","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      59","(Notice) Undefined index:  email"
+"12 Aug 2011 18:16:24","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      60","(Notice) Undefined index:  email"
+"12 Aug 2011 18:16:24","/homepages/36/d378030953/htdocs/school/application/controllers/ProjectsController.php:
+      20","(Notice) Undefined index:  email"
+"12 Aug 2011 18:17:35","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      60","(Notice) Undefined index:  email"
+"12 Aug 2011 18:17:35","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      61","(Notice) Undefined variable: _SESSION"
+"12 Aug 2011 18:17:35","/homepages/36/d378030953/htdocs/school/application/controllers/ProjectsController.php:
+      20","(Notice) Undefined index:  email"
+"12 Aug 2011 18:17:47","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      60","(Notice) Undefined index:  email"
+"12 Aug 2011 18:17:47","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      61","(Notice) Undefined variable: _SESSION"
+"12 Aug 2011 18:17:47","/homepages/36/d378030953/htdocs/school/application/controllers/ProjectsController.php:
+      20","(Notice) Undefined index:  email"
+"12 Aug 2011 18:18:17","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      60","(Notice) Undefined index:  email"
+"12 Aug 2011 18:18:17","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      61","(Notice) Undefined variable: _SESSION"
+"12 Aug 2011 18:18:17","/homepages/36/d378030953/htdocs/school/application/controllers/ProjectsController.php:
+      20","(Notice) Undefined variable: _SESSION"
+"12 Aug 2011 18:19:05","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      60","(Notice) Undefined index:  email"
+"12 Aug 2011 18:19:59","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      60","(Notice) Undefined index:  email"
+"12 Aug 2011 18:20:09","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      60","(Notice) Undefined index:  email"
+"12 Aug 2011 18:20:59","/homepages/36/d378030953/htdocs/school/application/controllers/ProjectsController.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"12 Aug 2011 18:20:59","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      60","(Notice) A session had already been started - ignoring session_start()"
+"12 Aug 2011 18:21:54","/homepages/36/d378030953/htdocs/school/application/controllers/ProjectsController.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"12 Aug 2011 18:21:54","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      60","(Notice) A session had already been started - ignoring session_start()"
+"12 Aug 2011 18:22:03","/homepages/36/d378030953/htdocs/school/application/controllers/ProjectsController.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"12 Aug 2011 18:22:03","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      60","(Notice) A session had already been started - ignoring session_start()"
+"12 Aug 2011 18:24:25","/homepages/36/d378030953/htdocs/school/application/controllers/ProjectsController.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"12 Aug 2011 18:24:25","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      60","(Notice) A session had already been started - ignoring session_start()"
+"12 Aug 2011 18:24:29","/homepages/36/d378030953/htdocs/school/application/controllers/UserController.php:
+      86","(Notice) A session had already been started - ignoring session_start()"
+"12 Aug 2011 18:24:35","/homepages/36/d378030953/htdocs/school/application/controllers/ProjectsController.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"12 Aug 2011 18:24:35","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      60","(Notice) A session had already been started - ignoring session_start()"
+"12 Aug 2011 18:24:49","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      45","(Notice) A session had already been started - ignoring session_start()"
+"12 Aug 2011 18:27:28","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      60","(Notice) A session had already been started - ignoring session_start()"
+"12 Aug 2011 18:27:32","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      60","(Notice) A session had already been started - ignoring session_start()"
+"12 Aug 2011 18:27:46","/homepages/36/d378030953/htdocs/school/application/controllers/ProjectsController.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"12 Aug 2011 18:27:46","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      60","(Notice) A session had already been started - ignoring session_start()"
+"12 Aug 2011 18:41:02","/homepages/36/d378030953/htdocs/school/application/controllers/ProjectsController.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"12 Aug 2011 18:41:34","/homepages/36/d378030953/htdocs/school/application/controllers/ProjectsController.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"12 Aug 2011 18:41:36","/homepages/36/d378030953/htdocs/school/application/controllers/ProjectsController.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"12 Aug 2011 18:41:42","/homepages/36/d378030953/htdocs/school/application/controllers/ProjectsController.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"12 Aug 2011 18:41:47","/homepages/36/d378030953/htdocs/school/application/controllers/ProjectsController.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"12 Aug 2011 18:56:19","/homepages/36/d378030953/htdocs/school/application/controllers/ProjectsController.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"12 Aug 2011 18:57:16","/homepages/36/d378030953/htdocs/school/application/controllers/ProjectsController.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"12 Aug 2011 19:02:09","/homepages/36/d378030953/htdocs/school/application/controllers/ProjectsController.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"12 Aug 2011 19:04:34","/homepages/36/d378030953/htdocs/school/application/controllers/ProjectsController.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"12 Aug 2011 19:05:39","/homepages/36/d378030953/htdocs/school/application/controllers/ProjectsController.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"12 Aug 2011 19:06:32","/homepages/36/d378030953/htdocs/school/application/controllers/ProjectsController.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"12 Aug 2011 19:07:04","/homepages/36/d378030953/htdocs/school/application/controllers/ProjectsController.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"12 Aug 2011 19:11:25","/homepages/36/d378030953/htdocs/school/application/controllers/ProjectsController.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"12 Aug 2011 19:15:46","/homepages/36/d378030953/htdocs/school/application/controllers/ProjectsController.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"12 Aug 2011 19:17:12","/homepages/36/d378030953/htdocs/school/application/controllers/ProjectsController.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"12 Aug 2011 19:17:40","/homepages/36/d378030953/htdocs/school/application/controllers/ProjectsController.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"12 Aug 2011 20:13:15","/homepages/36/d378030953/htdocs/school/application/controllers/ProjectsController.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"12 Aug 2011 20:13:48","/homepages/36/d378030953/htdocs/school/application/controllers/ProjectsController.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"12 Aug 2011 20:16:32","/homepages/36/d378030953/htdocs/school/application/controllers/ProjectsController.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"12 Aug 2011 20:16:44","/homepages/36/d378030953/htdocs/school/application/controllers/ProjectsController.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"12 Aug 2011 20:18:21","/homepages/36/d378030953/htdocs/school/application/controllers/ProjectsController.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"12 Aug 2011 20:21:00","/homepages/36/d378030953/htdocs/school/application/controllers/ProjectsController.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"12 Aug 2011 20:21:03","/homepages/36/d378030953/htdocs/school/application/controllers/ProjectsController.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"12 Aug 2011 20:21:21","/homepages/36/d378030953/htdocs/school/application/controllers/ProjectsController.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"12 Aug 2011 20:22:33","/homepages/36/d378030953/htdocs/school/application/controllers/ProjectsController.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"12 Aug 2011 20:22:33","/homepages/36/d378030953/htdocs/school/application/controllers/ProjectsController.php:
+      33","(Notice) Undefined property: ProjectsController::$user"
+"12 Aug 2011 20:24:22","/homepages/36/d378030953/htdocs/school/application/controllers/ProjectsController.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"12 Aug 2011 20:24:22","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      60","(Notice) A session had already been started - ignoring session_start()"
+"12 Aug 2011 21:06:14","/homepages/36/d378030953/htdocs/school/application/controllers/ProjectsController.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"12 Aug 2011 21:06:14","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      60","(Notice) A session had already been started - ignoring session_start()"
+"12 Aug 2011 21:08:16","/homepages/36/d378030953/htdocs/school/application/controllers/ProjectsController.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"12 Aug 2011 21:08:16","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      60","(Notice) A session had already been started - ignoring session_start()"
+"12 Aug 2011 21:11:02","/homepages/36/d378030953/htdocs/school/application/controllers/ProjectsController.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"12 Aug 2011 21:11:02","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      60","(Notice) A session had already been started - ignoring session_start()"
+"12 Aug 2011 21:11:28","/homepages/36/d378030953/htdocs/school/application/controllers/ProjectsController.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"12 Aug 2011 21:11:28","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      60","(Notice) A session had already been started - ignoring session_start()"
+"12 Aug 2011 21:11:57","/homepages/36/d378030953/htdocs/school/application/controllers/ProjectsController.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"12 Aug 2011 21:11:57","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      60","(Notice) A session had already been started - ignoring session_start()"
+"12 Aug 2011 21:48:24","/homepages/36/d378030953/htdocs/school/application/controllers/ProjectsController.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"12 Aug 2011 21:48:24","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      60","(Notice) A session had already been started - ignoring session_start()"
+"12 Aug 2011 21:48:24","/homepages/36/d378030953/htdocs/school/application/models/Projects.php:
+      41","(Notice) Undefined property: Application_Model_Projects::$db"
+"12 Aug 2011 21:48:56","/homepages/36/d378030953/htdocs/school/application/controllers/ProjectsController.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"12 Aug 2011 21:48:56","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      60","(Notice) A session had already been started - ignoring session_start()"
+"12 Aug 2011 21:48:56","/homepages/36/d378030953/htdocs/school/application/models/Projects.php:
+      41","(Notice) Undefined property: Application_Model_Projects::$db"
+"12 Aug 2011 21:49:30","/homepages/36/d378030953/htdocs/school/application/controllers/ProjectsController.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"12 Aug 2011 21:49:30","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      60","(Notice) A session had already been started - ignoring session_start()"
+"12 Aug 2011 21:50:18","/homepages/36/d378030953/htdocs/school/application/controllers/ProjectsController.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"12 Aug 2011 21:50:18","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      60","(Notice) A session had already been started - ignoring session_start()"
+"12 Aug 2011 21:50:21","/homepages/36/d378030953/htdocs/school/application/controllers/ProjectsController.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"12 Aug 2011 21:50:21","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      60","(Notice) A session had already been started - ignoring session_start()"
+"12 Aug 2011 21:50:25","/homepages/36/d378030953/htdocs/school/application/controllers/ProjectsController.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"12 Aug 2011 21:50:25","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      60","(Notice) A session had already been started - ignoring session_start()"
+"12 Aug 2011 21:50:26","/homepages/36/d378030953/htdocs/school/application/controllers/ProjectsController.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"12 Aug 2011 21:50:26","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      60","(Notice) A session had already been started - ignoring session_start()"
+"12 Aug 2011 21:53:03","/homepages/36/d378030953/htdocs/school/application/controllers/ProjectsController.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"12 Aug 2011 21:53:03","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      60","(Notice) A session had already been started - ignoring session_start()"
+"12 Aug 2011 21:53:06","/homepages/36/d378030953/htdocs/school/application/controllers/ProjectsController.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"12 Aug 2011 21:53:06","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      60","(Notice) A session had already been started - ignoring session_start()"
+"12 Aug 2011 21:53:41","/homepages/36/d378030953/htdocs/school/application/controllers/ProjectsController.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"12 Aug 2011 21:53:41","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      60","(Notice) A session had already been started - ignoring session_start()"
+"12 Aug 2011 21:53:43","/homepages/36/d378030953/htdocs/school/application/controllers/ProjectsController.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"12 Aug 2011 21:53:43","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      60","(Notice) A session had already been started - ignoring session_start()"
+"12 Aug 2011 21:54:16","/homepages/36/d378030953/htdocs/school/application/controllers/ProjectsController.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"12 Aug 2011 21:54:16","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      60","(Notice) A session had already been started - ignoring session_start()"
+"12 Aug 2011 21:54:34","/homepages/36/d378030953/htdocs/school/application/controllers/ProjectsController.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"12 Aug 2011 21:54:34","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      60","(Notice) A session had already been started - ignoring session_start()"
+"12 Aug 2011 21:55:24","/homepages/36/d378030953/htdocs/school/application/controllers/ProjectsController.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"12 Aug 2011 21:55:24","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      60","(Notice) A session had already been started - ignoring session_start()"
+"12 Aug 2011 21:56:10","/homepages/36/d378030953/htdocs/school/application/controllers/ProjectsController.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"12 Aug 2011 21:56:10","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      60","(Notice) A session had already been started - ignoring session_start()"
+"12 Aug 2011 22:14:52","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      60","(Notice) A session had already been started - ignoring session_start()"
+"12 Aug 2011 22:14:54","/homepages/36/d378030953/htdocs/school/application/controllers/ProjectsController.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"12 Aug 2011 22:14:54","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      60","(Notice) A session had already been started - ignoring session_start()"
+"12 Aug 2011 23:13:01","/homepages/36/d378030953/htdocs/school/application/controllers/ProjectsController.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"12 Aug 2011 23:13:01","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      60","(Notice) A session had already been started - ignoring session_start()"
+"12 Aug 2011 23:13:06","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      60","(Notice) A session had already been started - ignoring session_start()"
+"12 Aug 2011 23:13:08","/homepages/36/d378030953/htdocs/school/application/controllers/ProjectsController.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"12 Aug 2011 23:13:08","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      60","(Notice) A session had already been started - ignoring session_start()"
+"12 Aug 2011 23:13:09","/homepages/36/d378030953/htdocs/school/application/controllers/ProjectsController.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"12 Aug 2011 23:13:09","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      60","(Notice) A session had already been started - ignoring session_start()"
+"12 Aug 2011 23:13:14","/homepages/36/d378030953/htdocs/school/application/controllers/ProjectsController.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"12 Aug 2011 23:13:14","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      60","(Notice) A session had already been started - ignoring session_start()"
+"12 Aug 2011 23:17:51","/homepages/36/d378030953/htdocs/school/application/controllers/ProjectsController.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"12 Aug 2011 23:17:51","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      60","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 00:24:56","/homepages/36/d378030953/htdocs/school/application/controllers/ProjectsController.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 00:24:56","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      60","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 00:31:00","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      62","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 00:31:36","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      62","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 00:32:24","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      62","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 00:38:30","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      62","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 00:42:14","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      62","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 00:46:09","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      62","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 00:46:14","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      62","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 00:53:03","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      34","(Warning) mkdir() [<a href='function.mkdir'>function.mkdir</a>]: No such file or directory"
+"13 Aug 2011 00:56:17","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      34","(Warning) mkdir() [<a href='function.mkdir'>function.mkdir</a>]: No such file or directory"
+"13 Aug 2011 00:59:04","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      34","(Warning) mkdir() [<a href='function.mkdir'>function.mkdir</a>]: Permission denied"
+"13 Aug 2011 01:02:35","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      34","(Warning) mkdir() [<a href='function.mkdir'>function.mkdir</a>]: Permission denied"
+"13 Aug 2011 01:03:04","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      34","(Warning) mkdir() [<a href='function.mkdir'>function.mkdir</a>]: No such file or directory"
+"13 Aug 2011 01:12:35","/homepages/36/d378030953/htdocs/school/application/controllers/ProjectsController.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 01:12:35","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      63","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 01:12:40","/homepages/36/d378030953/htdocs/school/application/controllers/ProjectsController.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 01:12:40","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      63","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 01:14:42","/homepages/36/d378030953/htdocs/school/application/controllers/ProjectsController.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 01:14:42","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      63","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 01:24:25","/homepages/36/d378030953/htdocs/school/application/controllers/ProjectsController.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 01:24:25","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      63","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 01:26:49","/homepages/36/d378030953/htdocs/school/application/controllers/ProjectsController.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 01:26:49","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      63","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 01:28:25","/homepages/36/d378030953/htdocs/school/application/controllers/ProjectsController.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 01:28:25","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      63","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 01:35:47","/homepages/36/d378030953/htdocs/school/application/controllers/ProjectsController.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 01:35:47","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      63","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 01:36:09","/homepages/36/d378030953/htdocs/school/application/controllers/ProjectsController.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 01:36:09","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      63","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 01:36:35","/homepages/36/d378030953/htdocs/school/application/controllers/ProjectsController.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 01:36:35","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      63","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 01:36:59","/homepages/36/d378030953/htdocs/school/application/controllers/ProjectsController.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 01:36:59","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      63","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 01:36:59","/homepages/36/d378030953/htdocs/school/application/forms/Track.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 01:37:01","/homepages/36/d378030953/htdocs/school/application/controllers/ProjectsController.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 01:37:01","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      63","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 01:37:02","/homepages/36/d378030953/htdocs/school/application/forms/Track.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 01:38:02","/homepages/36/d378030953/htdocs/school/application/controllers/ProjectsController.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 01:38:02","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      63","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 01:38:02","/homepages/36/d378030953/htdocs/school/application/forms/Track.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 01:38:22","/homepages/36/d378030953/htdocs/school/application/controllers/ProjectsController.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 01:38:22","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      63","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 01:38:22","/homepages/36/d378030953/htdocs/school/application/forms/Track.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 01:38:42","/homepages/36/d378030953/htdocs/school/application/controllers/ProjectsController.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 01:38:42","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      63","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 01:38:42","/homepages/36/d378030953/htdocs/school/application/forms/Track.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 01:39:09","/homepages/36/d378030953/htdocs/school/application/controllers/ProjectsController.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 01:39:09","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      63","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 01:39:09","/homepages/36/d378030953/htdocs/school/application/forms/Track.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 01:39:45","/homepages/36/d378030953/htdocs/school/application/controllers/ProjectsController.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 01:39:45","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      63","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 01:39:45","/homepages/36/d378030953/htdocs/school/application/forms/Track.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 01:41:10","/homepages/36/d378030953/htdocs/school/application/controllers/ProjectsController.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 01:41:10","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      63","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 01:41:10","/homepages/36/d378030953/htdocs/school/application/forms/Track.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 01:41:53","/homepages/36/d378030953/htdocs/school/application/controllers/ProjectsController.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 01:41:53","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      63","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 01:41:53","/homepages/36/d378030953/htdocs/school/application/forms/Track.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 01:42:55","/homepages/36/d378030953/htdocs/school/application/controllers/ProjectsController.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 01:42:55","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      63","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 01:42:55","/homepages/36/d378030953/htdocs/school/application/forms/Track.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 01:43:15","/homepages/36/d378030953/htdocs/school/application/controllers/ProjectsController.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 01:43:15","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      63","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 01:43:15","/homepages/36/d378030953/htdocs/school/application/forms/Track.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 01:44:03","/homepages/36/d378030953/htdocs/school/application/controllers/ProjectsController.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 01:44:03","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      63","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 01:44:03","/homepages/36/d378030953/htdocs/school/application/forms/Track.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 02:53:15","/homepages/36/d378030953/htdocs/school/application/controllers/ProjectsController.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 02:53:15","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      63","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 02:53:15","/homepages/36/d378030953/htdocs/school/application/forms/Track.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 02:53:35","/homepages/36/d378030953/htdocs/school/application/controllers/ProjectsController.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 02:53:35","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      63","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 02:53:35","/homepages/36/d378030953/htdocs/school/application/forms/Track.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 02:54:03","/homepages/36/d378030953/htdocs/school/application/controllers/ProjectsController.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 02:54:03","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      63","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 02:54:03","/homepages/36/d378030953/htdocs/school/application/forms/Track.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 02:54:47","/homepages/36/d378030953/htdocs/school/application/controllers/ProjectsController.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 02:54:47","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      63","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 02:54:47","/homepages/36/d378030953/htdocs/school/application/forms/Track.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 02:56:33","/homepages/36/d378030953/htdocs/school/application/controllers/ProjectsController.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 02:56:33","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      63","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 02:56:33","/homepages/36/d378030953/htdocs/school/application/forms/Track.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 02:57:48","/homepages/36/d378030953/htdocs/school/application/controllers/ProjectsController.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 02:57:48","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      63","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 02:57:48","/homepages/36/d378030953/htdocs/school/application/forms/Track.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 03:01:53","/homepages/36/d378030953/htdocs/school/application/controllers/ProjectsController.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 03:01:53","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      63","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 03:01:53","/homepages/36/d378030953/htdocs/school/application/forms/Track.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 03:02:14","/homepages/36/d378030953/htdocs/school/application/controllers/ProjectsController.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 03:02:14","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      63","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 03:02:14","/homepages/36/d378030953/htdocs/school/application/forms/Track.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 03:02:45","/homepages/36/d378030953/htdocs/school/application/controllers/ProjectsController.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 03:02:45","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      63","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 03:02:45","/homepages/36/d378030953/htdocs/school/application/forms/Track.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 03:27:42","/homepages/36/d378030953/htdocs/school/application/controllers/ProjectsController.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 03:27:42","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      63","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 03:27:42","/homepages/36/d378030953/htdocs/school/application/forms/Track.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 03:28:13","/homepages/36/d378030953/htdocs/school/application/controllers/ProjectsController.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 03:28:13","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      63","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 03:28:13","/homepages/36/d378030953/htdocs/school/application/forms/Track.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 03:34:40","/homepages/36/d378030953/htdocs/school/application/controllers/ProjectsController.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 03:34:40","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      63","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 03:34:40","/homepages/36/d378030953/htdocs/school/application/forms/Track.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 03:49:01","/homepages/36/d378030953/htdocs/school/application/controllers/ProjectsController.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 03:49:01","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      63","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 03:49:12","/homepages/36/d378030953/htdocs/school/application/controllers/ProjectsController.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 03:49:12","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      63","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 03:49:21","/homepages/36/d378030953/htdocs/school/application/controllers/ProjectsController.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 03:49:21","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      63","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 03:49:21","/homepages/36/d378030953/htdocs/school/application/forms/Track.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 03:50:47","/homepages/36/d378030953/htdocs/school/application/controllers/ProjectsController.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 03:50:47","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      63","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 03:50:47","/homepages/36/d378030953/htdocs/school/application/forms/Track.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 03:52:23","/homepages/36/d378030953/htdocs/school/application/controllers/ProjectsController.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 03:52:23","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      63","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 03:52:27","/homepages/36/d378030953/htdocs/school/application/controllers/ProjectsController.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 03:52:27","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      63","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 03:59:37","/homepages/36/d378030953/htdocs/school/application/controllers/ProjectsController.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 03:59:37","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      63","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 04:00:43","/homepages/36/d378030953/htdocs/school/application/controllers/ProjectsController.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 04:00:43","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      63","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 04:00:43","/homepages/36/d378030953/htdocs/school/application/views/scripts/projects/branch.phtml:
+      7","(Notice) Undefined variable: branch"
+"13 Aug 2011 04:00:53","/homepages/36/d378030953/htdocs/school/application/controllers/ProjectsController.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 04:00:53","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      63","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 04:00:55","/homepages/36/d378030953/htdocs/school/application/controllers/ProjectsController.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 04:00:55","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      63","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 04:00:56","/homepages/36/d378030953/htdocs/school/application/views/scripts/projects/branch.phtml:
+      7","(Notice) Undefined variable: branch"
+"13 Aug 2011 04:00:58","/homepages/36/d378030953/htdocs/school/application/controllers/ProjectsController.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 04:00:58","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      63","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 04:00:59","/homepages/36/d378030953/htdocs/school/application/controllers/ProjectsController.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 04:00:59","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      63","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 04:00:59","/homepages/36/d378030953/htdocs/school/application/views/scripts/projects/branch.phtml:
+      7","(Notice) Undefined variable: branch"
+"13 Aug 2011 04:01:24","/homepages/36/d378030953/htdocs/school/application/controllers/ProjectsController.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 04:01:24","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      63","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 04:05:10","/homepages/36/d378030953/htdocs/school/application/controllers/ProjectsController.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 04:05:10","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      63","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 04:05:10","/homepages/36/d378030953/htdocs/school/application/views/scripts/projects/branch.phtml:
+      16","(Notice) Undefined index:  gb_track_name"
+"13 Aug 2011 04:05:10","/homepages/36/d378030953/htdocs/school/application/views/scripts/projects/branch.phtml:
+      16","(Notice) Undefined index:  gb_track_filename"
+"13 Aug 2011 04:05:33","/homepages/36/d378030953/htdocs/school/application/controllers/ProjectsController.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 04:05:33","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      63","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 04:09:13","/homepages/36/d378030953/htdocs/school/application/controllers/ProjectsController.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 04:09:13","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      63","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 04:09:38","/homepages/36/d378030953/htdocs/school/application/controllers/ProjectsController.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 04:09:38","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      63","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 04:10:22","/homepages/36/d378030953/htdocs/school/application/controllers/ProjectsController.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 04:10:22","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      63","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 04:10:44","/homepages/36/d378030953/htdocs/school/application/controllers/ProjectsController.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 04:10:44","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      63","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 06:02:28","/homepages/36/d378030953/htdocs/school/application/controllers/ProjectsController.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 06:02:28","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      63","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 06:02:30","/homepages/36/d378030953/htdocs/school/application/controllers/ProjectsController.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 06:02:30","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      63","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 06:07:24","/homepages/36/d378030953/htdocs/school/application/controllers/ProjectsController.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 06:07:24","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      63","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 06:07:24","/homepages/36/d378030953/htdocs/school/application/forms/Track.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 06:07:43","/homepages/36/d378030953/htdocs/school/application/controllers/ProjectsController.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 06:07:43","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      63","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 06:07:43","/homepages/36/d378030953/htdocs/school/application/forms/Track.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 06:07:46","/homepages/36/d378030953/htdocs/school/application/controllers/ProjectsController.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 06:07:46","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      63","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 06:07:49","/homepages/36/d378030953/htdocs/school/application/controllers/ProjectsController.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 06:07:49","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      63","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 06:11:52","/homepages/36/d378030953/htdocs/school/application/controllers/ProjectsController.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 06:11:52","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      63","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 06:12:31","/homepages/36/d378030953/htdocs/school/application/controllers/ProjectsController.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 06:12:31","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      63","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 06:12:50","/homepages/36/d378030953/htdocs/school/application/controllers/ProjectsController.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 06:12:50","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      63","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 06:12:50","/homepages/36/d378030953/htdocs/school/application/views/scripts/projects/branch.phtml:
+      17","() date() [<a href='function.date'>function.date</a>]: It is not safe to rely on the system's timezone settings. Please use the date.timezone setting, the TZ environment variable or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'America/New_York' for 'EDT/-4.0/DST' instead"
+"13 Aug 2011 06:14:49","/homepages/36/d378030953/htdocs/school/application/controllers/ProjectsController.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 06:14:49","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      63","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 06:14:49","/homepages/36/d378030953/htdocs/school/application/views/scripts/projects/branch.phtml:
+      17","() date() [<a href='function.date'>function.date</a>]: It is not safe to rely on the system's timezone settings. Please use the date.timezone setting, the TZ environment variable or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'America/New_York' for 'EDT/-4.0/DST' instead"
+"13 Aug 2011 06:17:06","/homepages/36/d378030953/htdocs/school/application/controllers/ProjectsController.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 06:17:06","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      63","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 06:18:39","/homepages/36/d378030953/htdocs/school/application/controllers/ProjectsController.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 06:18:39","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      63","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 06:19:18","/homepages/36/d378030953/htdocs/school/application/controllers/ProjectsController.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 06:19:18","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      63","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 06:19:18","/homepages/36/d378030953/htdocs/school/application/views/scripts/projects/branch.phtml:
+      17","() date() [<a href='function.date'>function.date</a>]: It is not safe to rely on the system's timezone settings. Please use the date.timezone setting, the TZ environment variable or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'America/New_York' for 'EDT/-4.0/DST' instead"
+"13 Aug 2011 06:21:56","/homepages/36/d378030953/htdocs/school/application/controllers/ProjectsController.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 06:21:56","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      63","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 06:22:22","/homepages/36/d378030953/htdocs/school/application/controllers/ProjectsController.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 06:22:22","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      63","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 06:22:30","/homepages/36/d378030953/htdocs/school/application/controllers/ProjectsController.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 06:22:30","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      63","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 06:22:36","/homepages/36/d378030953/htdocs/school/application/controllers/ProjectsController.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 06:22:36","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      63","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 06:22:39","/homepages/36/d378030953/htdocs/school/application/controllers/ProjectsController.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 06:22:39","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      63","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 06:38:52","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      63","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 06:38:54","/homepages/36/d378030953/htdocs/school/application/controllers/ProjectsController.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 06:38:54","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      63","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 06:38:58","/homepages/36/d378030953/htdocs/school/application/controllers/ProjectsController.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 06:38:58","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      63","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 06:39:02","/homepages/36/d378030953/htdocs/school/application/controllers/ProjectsController.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 06:39:02","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      63","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 05:39:02","/homepages/36/d378030953/htdocs/school/application/forms/Track.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 06:39:27","/homepages/36/d378030953/htdocs/school/application/controllers/ProjectsController.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 06:39:27","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      63","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 06:42:26","/homepages/36/d378030953/htdocs/school/application/controllers/ProjectsController.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 06:42:26","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      63","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 06:44:11","/homepages/36/d378030953/htdocs/school/application/controllers/ProjectsController.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 06:44:11","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      63","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 06:44:29","/homepages/36/d378030953/htdocs/school/application/controllers/ProjectsController.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 06:44:29","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      63","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 06:46:01","/homepages/36/d378030953/htdocs/school/application/controllers/ProjectsController.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 06:46:01","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      63","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 06:46:08","/homepages/36/d378030953/htdocs/school/application/controllers/ProjectsController.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 06:46:08","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      63","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 06:46:21","/homepages/36/d378030953/htdocs/school/application/controllers/ProjectsController.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 06:46:21","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      63","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 18:03:06","/homepages/36/d378030953/htdocs/school/application/controllers/ProjectsController.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 18:03:06","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      63","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 20:23:41","/homepages/36/d378030953/htdocs/school/application/controllers/ProjectsController.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 20:23:41","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      63","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 20:23:48","/homepages/36/d378030953/htdocs/school/application/controllers/ProjectsController.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 20:23:48","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      63","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 20:23:59","/homepages/36/d378030953/htdocs/school/application/controllers/ProjectsController.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 20:23:59","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      63","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 19:23:59","/homepages/36/d378030953/htdocs/school/application/forms/Track.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"13 Aug 2011 20:24:06","/homepages/36/d378030953/htdocs/school/application/controllers/UserController.php:
+      86","(Notice) A session had already been started - ignoring session_start()"

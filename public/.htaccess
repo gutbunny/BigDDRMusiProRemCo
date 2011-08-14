@@ -1,0 +1,9 @@
+AddHandler x-mapp-php5 .php
+AddType x-mapp-php5 .php
+Options -MultiViews
+
+RewriteEngine On
+RewriteBase /
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule !\.(txt|swf|js|ico|gif|jpg|png|css|xml)$ /

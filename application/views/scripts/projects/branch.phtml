@@ -1,0 +1,23 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <title>branch</title>
+</head>
+    <body>
+    <div class="table-data-project-name">
+      ->  Project: <?php echo $this->branch['project']; ?> 
+    </div>
+    <div class="table-data-branch-name">
+        -> Branch: <?php echo $this->branch['branch']; ?>
+    </div>
+    <div class="table-header-tracks">Tracks:</div>
+    <?php foreach($this->branch['tracks'] as $track) : ?>
+    <div class="table-data-track-name">
+        <?php  echo $track['gb_tracks_name'] . " ( " . $track['gb_tracks_filename'] . " ) Created by: " . $track['gb_users_firstname'] . " " . $track['gb_users_lastname'] . " at " . date('H:i:s Y-m-d', $track['gb_tracks_date_created']); ?>
+        <br/>
+        <a href="<?php echo str_replace('public/', '', $track['gb_tracks_filepath']) . "/" . $track['gb_tracks_filename']; ?>">Download</a>
+    </div>
+    <?php endforeach; ?>
+</body>
+</html>

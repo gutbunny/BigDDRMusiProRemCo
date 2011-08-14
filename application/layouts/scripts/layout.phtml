@@ -1,0 +1,55 @@
+<?php echo $this->doctype() ?>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <title>Shep's Very Very Low Tuition Institution of Higher Learning</title>
+  <?php echo $this->headLink()->appendStylesheet('/css/global.css') ?>
+</head>
+<body class="shep-style">
+    <center>
+    <div id="header" class="header-wrapper">
+        <div id="header-logo" style="float: left;">
+            <h3><b>Big Daddy Death Ray's Music Project Remote Collaboratorizer</b></h3><br/>
+            or BigDDRMusiProRemCo for short...
+        </div>
+        <div id="header-navigation" style="float: right;">
+            <ul>
+                <li><a href="/user">My Account</a></li>
+
+                <li><a href="/user/addnewuser">Signup</a></li>
+
+                <li><a href="<?php echo $this->url(
+                array('controller'=>'projects'),
+                'default',
+                true) ?>">My Projects</a></li>
+
+                <li><a href="/projects/addtracks">Add Tracks</a></li>
+
+            </ul>
+        </div>
+        <div id="header-login" style="float:right;">
+            <?php if(!$this->user) : ?>
+            <form action="/user/login" name="loginform" method="POST">
+                <input name="gb_users_email" type="text" style="width: 120px;" value="email">
+                <input name="gb_users_password" type="password" style="width: 120px;" value="xxxxxx">
+                <input name="login_submit" type="submit" value="Login">
+            </form>
+            <?php else : ?>
+            <div class="user-welcome" style="text-align:right;">
+                Welcome <?php echo $this->user['gb_users_firstname'] . " " . $this->user['gb_users_lastname']; ?>
+                <br><a href="/user/logout">Logout</a>
+            </div>
+            <?php endif; ?>
+
+        </div>
+    </div>
+    <div id="content" class="content-wrapper">
+        <?php echo $this->layout()->content ?>
+    </div>
+
+    <div id="footer" class="footer-wrapper">
+
+    </div>
+    </center>
+</body>
+</html>

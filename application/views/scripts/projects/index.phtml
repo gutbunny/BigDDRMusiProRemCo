@@ -1,0 +1,40 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <title>index</title>
+</head>
+<body><?php //print_r($this->stuff); ?>
+    <pre><?php //print_r($this->user); ?></pre>
+    <div id="table-data" style="min-height: 290px;">
+        <table border="0" width="100%">
+            <tr style="vertical-align:top;">
+                <td>
+                    <div class="table-data-header">
+                        My Projects
+                    </div>
+                    <?php foreach($this->user['projects'] as $project) : ?>
+                    <div class="table-data-project-name">
+                        Project Name: <?php echo $project['gb_projects_name']; ?>
+                    </div>
+                        <?php foreach($project['branches'] as $branch) : ?>
+                    <div class="table-data-branch-name">
+                        Branch: <a href='/projects/branch?gb_projects_branches_id=<?php echo $branch['gb_projects_branches_id']; ?>'>
+                            <?php echo $branch['gb_projects_branches_name']; ?></a>
+                    </div>
+
+                        <?php endforeach; ?>
+
+                    <?php endforeach; ?>
+                </td>
+                <td>
+                    <div class="table-data-header">
+                        Create A New Project
+                    </div>
+                </td>
+            </tr>
+        </table>
+    </div>
+
+</body>
+</html>
