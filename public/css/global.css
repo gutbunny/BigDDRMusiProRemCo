@@ -101,15 +101,18 @@ root {
 /* PROJECTS */
 
 .table-data-project-name {
+
     padding-left: 20px;
     padding-top: 5px;
 }
 
 .table-data-branch-name {
+
     padding-left: 30px;
 }
 
 .table-header-tracks {
+
     padding-left: 55px;
     padding-top: 5px;
     padding-bottom: 5px;
@@ -117,6 +120,40 @@ root {
 }
 
 .table-data-track-name {
+
     padding-left: 65px;
     background-color: #cccc99;
+}
+
+/* RESUME */
+
+.resume-header {
+
+    background-color: #cccc99;
+    border: 1px;
+    border-style:inset;
+    padding: 5px 5px 5px 20px;
+}
+
+.resume-cover {
+
+    padding: 5px 5px 5px 20px;
+}
+
+.resume-experience {
+
+    padding: 5px 5px 5px 20px;
+}
+
+.resume-experience-header {
+    
+    background-color: #cccc99;
+    border: 1px;
+    border-style:inset;
+    padding: 5px 5px 5px 20px;
+}
+
+.resume-experience-body {
+
+    padding: 5px 5px 5px 20px;
 }

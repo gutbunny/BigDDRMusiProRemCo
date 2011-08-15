@@ -23,6 +23,7 @@ class UserController extends Zend_Controller_Action {
     }
 
     public function checkSession() {
+
         $this->usermodel = new Application_Model_User();
         $user = $this->usermodel->loadUser();
         $this->view->user = $user;
