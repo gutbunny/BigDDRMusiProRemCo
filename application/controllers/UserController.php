@@ -13,20 +13,40 @@ class UserController extends Zend_Controller_Action {
 
     public function _init()
     {
-        //$this->view->stuff = "executed _init() in UserController called by Bootstrap _initUser()";
+        $this->_redirector = $this->_helper->getHelper('Redirector');
 
+        // Set the default options for the redirector
+        // Since the object is registered in the helper broker, these
+        // become relevant for all actions from this point forward
+        $this->_redirector->setCode(303)
+                          ->setExit(false)
+                          ->setGotoSimple("loginpage",
+                                          "user");
     }
+
+    
 
     public function indexAction()
     {
 
     }
 
-    public function checkSession() {
-
+    public function loadSession() {
+        session_start();
         $this->usermodel = new Application_Model_User();
         $user = $this->usermodel->loadUser();
         $this->view->user = $user;
+        //$this->view->user = 'debug output';
+        if( (   $_SESSION['email'] == 'logout'
+                || !$_SESSION['email'])
+            && !strstr($_SERVER['REQUEST_URI'], 'logout')
+            && !strstr($_SERVER['REQUEST_URI'], 'login')
+            && !strstr($_SERVER['REQUEST_URI'], 'addnewuser')
+        ) {
+            //$this->view->sanity = "executed conditional";
+            header('Location: /user/loginpage');
+            exit;
+        }
     }
 
     public function edituserAction() {
@@ -69,7 +89,7 @@ class UserController extends Zend_Controller_Action {
 
         } else {
             $form_obj = new Application_Form_User();
-            $form = $form_obj->getUserForm('/user/addnewuser');
+            $form = $form_obj->getSignupForm('/user/addnewuser');
             $this->view->form = $form;
         }
     }
@@ -86,6 +106,10 @@ class UserController extends Zend_Controller_Action {
         setcookie('email', 'logout');
         session_start();
         $_SESSION['email'] = 'logout';
+    }
+
+    public function loginpageAction() {
+
     }
 
 }

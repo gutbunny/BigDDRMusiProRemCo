@@ -61,9 +61,10 @@ class Application_Model_User {
     public function loadUser() {
         $this->connectDB();
         session_start();
+        
         $user = $this->db->fetchRow("select * from gb_users where gb_users_email = '".trim($_SESSION['email'])."'");
         
-        if(sizeof($user) > 0) {
+        if(is_array($user) && sizeof($user) > 0) {
 
             // Now load any and all project data for this user
             $projects_sql = "select p.*, ptu.*
@@ -80,7 +81,8 @@ class Application_Model_User {
             $user['projects'] = $projects;
             return $user;
         }
-        return "User not logged in.";
+        $user = array();
+        return $user;
     }
 }
 ?>

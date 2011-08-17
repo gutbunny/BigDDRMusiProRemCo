@@ -9,7 +9,11 @@ class Bootstrap extends Zend_Application_Bootstrap_Bootstrap
 	$view = $this->getResource('view');
         if (Zend_Loader::isReadable('../application/controllers/UserController.php')) {
             require '../application/controllers/UserController.php';
-            UserController::checkSession();
+            session_start();
+            //if($_SESSION['email'] && $_SESSION['email'] != 'logout') {
+                UserController::loadSession();
+            //}
+            
         }        
     }
 
