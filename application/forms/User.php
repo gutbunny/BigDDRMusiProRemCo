@@ -103,6 +103,32 @@ class Application_Form_User extends Zend_Form {
         return $form;
     }
 
+    public function getLoginForm() {
+
+        $form = new Zend_Form;
+
+        $form->setAction('/user/login')
+             ->setMethod('post')
+             ->setName('loginform')
+             ->setDescription('Why do we need a description of the form? Where does this appear?');
+        $form->setAttrib('sitename', "Shep's School");
+
+        $form->addElement('text', 'gb_users_email');
+        $emailElement = $form->getElement('gb_users_email');
+        $emailElement->setLabel('Email Address');
+        $emailElement->setValue($user['gb_users_email']);
+
+        $form->addElement('password', 'gb_users_password');
+        $pwdElement = $form->getElement('gb_users_password');
+        $pwdElement->setLabel('Password');
+
+        // Add Last Element - Submit Button
+        $form->addElement('submit', 'save');
+        $submitElement = $form->getElement('save');
+        $submitElement->setLabel('Login');
+
+        return $form;
+    }
 
 }
 ?>

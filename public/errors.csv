@@ -1132,3 +1132,27 @@
       18","(Notice) A session had already been started - ignoring session_start()"
 "16 Aug 2011 01:33:32","/homepages/36/d378030953/htdocs/school/application/controllers/UserController.php:
       107","(Notice) A session had already been started - ignoring session_start()"
+"18 Aug 2011 15:59:34","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      48","(Notice) A session had already been started - ignoring session_start()"
+"18 Aug 2011 16:04:12","/homepages/36/d378030953/htdocs/school/application/controllers/UserController.php:
+      109","(Notice) A session had already been started - ignoring session_start()"
+"18 Aug 2011 16:18:20","/homepages/36/d378030953/htdocs/school/application/forms/User.php:
+      119","(Notice) Undefined variable: user"
+"18 Aug 2011 16:18:33","/homepages/36/d378030953/htdocs/school/application/forms/User.php:
+      119","(Notice) Undefined variable: user"
+"18 Aug 2011 16:18:35","/homepages/36/d378030953/htdocs/school/application/forms/User.php:
+      119","(Notice) Undefined variable: user"
+"18 Aug 2011 16:18:37","/homepages/36/d378030953/htdocs/school/application/forms/User.php:
+      119","(Notice) Undefined variable: user"
+"18 Aug 2011 16:18:40","/homepages/36/d378030953/htdocs/school/application/forms/User.php:
+      119","(Notice) Undefined variable: user"
+"18 Aug 2011 16:18:51","/homepages/36/d378030953/htdocs/school/application/forms/User.php:
+      119","(Notice) Undefined variable: user"
+"18 Aug 2011 16:19:11","/homepages/36/d378030953/htdocs/school/application/forms/User.php:
+      119","(Notice) Undefined variable: user"
+"18 Aug 2011 16:19:12","/homepages/36/d378030953/htdocs/school/application/forms/User.php:
+      119","(Notice) Undefined variable: user"
+"18 Aug 2011 16:19:46","/homepages/36/d378030953/htdocs/school/application/forms/User.php:
+      119","(Notice) Undefined variable: user"
+"18 Aug 2011 16:20:14","/homepages/36/d378030953/htdocs/school/application/forms/User.php:
+      119","(Notice) Undefined variable: user"

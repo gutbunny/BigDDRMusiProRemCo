@@ -35,6 +35,7 @@ class UserController extends Zend_Controller_Action {
         session_start();
         $this->usermodel = new Application_Model_User();
         $user = $this->usermodel->loadUser();
+        //$this->view->sanity = "\$_SERVER['REQUEST_URI'] = " . $_SERVER['REQUEST_URI'];
         $this->view->user = $user;
         //$this->view->user = 'debug output';
         if( (   $_SESSION['email'] == 'logout'
@@ -42,8 +43,9 @@ class UserController extends Zend_Controller_Action {
             && !strstr($_SERVER['REQUEST_URI'], 'logout')
             && !strstr($_SERVER['REQUEST_URI'], 'login')
             && !strstr($_SERVER['REQUEST_URI'], 'addnewuser')
+            && $_SERVER['REQUEST_URI'] != '/'
         ) {
-            //$this->view->sanity = "executed conditional";
+            
             header('Location: /user/loginpage');
             exit;
         }
@@ -103,6 +105,7 @@ class UserController extends Zend_Controller_Action {
     }
 
     public function logoutAction() {
+
         setcookie('email', 'logout');
         session_start();
         $_SESSION['email'] = 'logout';
@@ -110,6 +113,9 @@ class UserController extends Zend_Controller_Action {
 
     public function loginpageAction() {
 
+        $form_obj = new Application_Form_User();
+        $form = $form_obj->getLoginForm();
+        $this->view->form = $form;
     }
 
 }
