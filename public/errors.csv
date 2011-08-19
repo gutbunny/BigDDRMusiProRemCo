@@ -1156,3 +1156,93 @@
       119","(Notice) Undefined variable: user"
 "18 Aug 2011 16:20:14","/homepages/36/d378030953/htdocs/school/application/forms/User.php:
       119","(Notice) Undefined variable: user"
+"18 Aug 2011 18:22:54","/homepages/36/d378030953/htdocs/school/application/forms/User.php:
+      124","(Notice) Undefined variable: user"
+"18 Aug 2011 18:25:27","/homepages/36/d378030953/htdocs/school/application/forms/User.php:
+      124","(Notice) Undefined variable: user"
+"18 Aug 2011 18:26:08","/homepages/36/d378030953/htdocs/school/application/forms/User.php:
+      124","(Notice) Undefined variable: user"
+"18 Aug 2011 18:26:14","/homepages/36/d378030953/htdocs/school/application/forms/User.php:
+      124","(Notice) Undefined variable: user"
+"18 Aug 2011 18:26:18","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      50","(Notice) A session had already been started - ignoring session_start()"
+"18 Aug 2011 18:46:20","/homepages/36/d378030953/htdocs/school/application/forms/User.php:
+      124","(Notice) Undefined variable: user"
+"18 Aug 2011 18:46:27","/homepages/36/d378030953/htdocs/school/application/forms/User.php:
+      124","(Notice) Undefined variable: user"
+"18 Aug 2011 18:46:30","/homepages/36/d378030953/htdocs/school/application/forms/User.php:
+      124","(Notice) Undefined variable: user"
+"18 Aug 2011 18:46:34","/homepages/36/d378030953/htdocs/school/application/forms/User.php:
+      124","(Notice) Undefined variable: user"
+"19 Aug 2011 02:54:18","/homepages/36/d378030953/htdocs/school/application/controllers/UserController.php:
+      114","(Notice) A session had already been started - ignoring session_start()"
+"19 Aug 2011 02:54:22","/homepages/36/d378030953/htdocs/school/application/forms/User.php:
+      124","(Notice) Undefined variable: user"
+"19 Aug 2011 02:54:22","/homepages/36/d378030953/htdocs/school/application/layouts/scripts/layout.phtml:
+      42","(Notice) Undefined index:  gb_users_firstname"
+"19 Aug 2011 02:54:22","/homepages/36/d378030953/htdocs/school/application/layouts/scripts/layout.phtml:
+      42","(Notice) Undefined index:  gb_users_lastname"
+"19 Aug 2011 02:54:26","/homepages/36/d378030953/htdocs/school/application/forms/User.php:
+      124","(Notice) Undefined variable: user"
+"19 Aug 2011 02:54:26","/homepages/36/d378030953/htdocs/school/application/layouts/scripts/layout.phtml:
+      42","(Notice) Undefined index:  gb_users_firstname"
+"19 Aug 2011 02:54:26","/homepages/36/d378030953/htdocs/school/application/layouts/scripts/layout.phtml:
+      42","(Notice) Undefined index:  gb_users_lastname"
+"19 Aug 2011 02:54:31","/homepages/36/d378030953/htdocs/school/application/forms/User.php:
+      124","(Notice) Undefined variable: user"
+"19 Aug 2011 02:54:31","/homepages/36/d378030953/htdocs/school/application/layouts/scripts/layout.phtml:
+      42","(Notice) Undefined index:  gb_users_firstname"
+"19 Aug 2011 02:54:31","/homepages/36/d378030953/htdocs/school/application/layouts/scripts/layout.phtml:
+      42","(Notice) Undefined index:  gb_users_lastname"
+"19 Aug 2011 02:54:32","/homepages/36/d378030953/htdocs/school/application/layouts/scripts/layout.phtml:
+      42","(Notice) Undefined index:  gb_users_firstname"
+"19 Aug 2011 02:54:32","/homepages/36/d378030953/htdocs/school/application/layouts/scripts/layout.phtml:
+      42","(Notice) Undefined index:  gb_users_lastname"
+"19 Aug 2011 02:54:35","/homepages/36/d378030953/htdocs/school/application/forms/User.php:
+      124","(Notice) Undefined variable: user"
+"19 Aug 2011 02:54:35","/homepages/36/d378030953/htdocs/school/application/layouts/scripts/layout.phtml:
+      42","(Notice) Undefined index:  gb_users_firstname"
+"19 Aug 2011 02:54:35","/homepages/36/d378030953/htdocs/school/application/layouts/scripts/layout.phtml:
+      42","(Notice) Undefined index:  gb_users_lastname"
+"19 Aug 2011 02:54:37","/homepages/36/d378030953/htdocs/school/application/forms/User.php:
+      124","(Notice) Undefined variable: user"
+"19 Aug 2011 02:54:37","/homepages/36/d378030953/htdocs/school/application/layouts/scripts/layout.phtml:
+      42","(Notice) Undefined index:  gb_users_firstname"
+"19 Aug 2011 02:54:37","/homepages/36/d378030953/htdocs/school/application/layouts/scripts/layout.phtml:
+      42","(Notice) Undefined index:  gb_users_lastname"
+"19 Aug 2011 02:56:01","/homepages/36/d378030953/htdocs/school/application/forms/User.php:
+      124","(Notice) Undefined variable: user"
+"19 Aug 2011 02:56:01","/homepages/36/d378030953/htdocs/school/application/layouts/scripts/layout.phtml:
+      42","(Notice) Undefined index:  gb_users_firstname"
+"19 Aug 2011 02:56:01","/homepages/36/d378030953/htdocs/school/application/layouts/scripts/layout.phtml:
+      42","(Notice) Undefined index:  gb_users_lastname"
+"19 Aug 2011 02:56:05","/homepages/36/d378030953/htdocs/school/application/forms/User.php:
+      124","(Notice) Undefined variable: user"
+"19 Aug 2011 02:56:05","/homepages/36/d378030953/htdocs/school/application/layouts/scripts/layout.phtml:
+      27","(Notice) Undefined index:  gb_users_email"
+"19 Aug 2011 02:56:10","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      50","(Notice) A session had already been started - ignoring session_start()"
+"19 Aug 2011 02:56:10","/homepages/36/d378030953/htdocs/school/application/layouts/scripts/layout.phtml:
+      27","(Notice) Undefined index:  gb_users_email"
+"19 Aug 2011 04:41:37","/homepages/36/d378030953/htdocs/school/application/controllers/ProjectsController.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"19 Aug 2011 04:41:37","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      65","(Notice) A session had already been started - ignoring session_start()"
+"19 Aug 2011 04:50:58","/homepages/36/d378030953/htdocs/school/application/controllers/AdminController.php:
+      23","(Notice) Undefined property: AdminController::$smtp"
+"19 Aug 2011 04:51:01","/homepages/36/d378030953/htdocs/school/application/controllers/AdminController.php:
+      23","(Notice) Undefined property: AdminController::$smtp"
+"19 Aug 2011 04:54:54","/homepages/36/d378030953/htdocs/school/application/controllers/AdminController.php:
+      23","(Notice) Undefined property: AdminController::$smtpsettings"
+"19 Aug 2011 05:38:14","/homepages/36/d378030953/htdocs/school/library/Zend/Mail.php:
+      972","() date() [<a href='function.date'>function.date</a>]: It is not safe to rely on the system's timezone settings. Please use the date.timezone setting, the TZ environment variable or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'America/New_York' for 'EDT/-4.0/DST' instead"
+"19 Aug 2011 05:47:15","/homepages/36/d378030953/htdocs/school/application/controllers/ProjectsController.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"19 Aug 2011 05:47:15","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      65","(Notice) A session had already been started - ignoring session_start()"
+"19 Aug 2011 05:47:17","/homepages/36/d378030953/htdocs/school/application/controllers/ProjectsController.php:
+      18","(Notice) A session had already been started - ignoring session_start()"
+"19 Aug 2011 05:47:17","/homepages/36/d378030953/htdocs/school/application/models/User.php:
+      65","(Notice) A session had already been started - ignoring session_start()"
+"19 Aug 2011 04:47:17","/homepages/36/d378030953/htdocs/school/application/forms/Track.php:
+      18","(Notice) A session had already been started - ignoring session_start()"

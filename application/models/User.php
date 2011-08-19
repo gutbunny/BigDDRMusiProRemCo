@@ -29,6 +29,8 @@ class Application_Model_User {
     public function saveUser($data) {
         
         $this->connectDB();
+        //@todo check for invite code
+        
         $this->db->insert('gb_users', $data);
         // now create an upload directory for this user
         return mkdir('/homepages/36/d378030953/htdocs/school/public/users/' . $data['gb_users_email']);

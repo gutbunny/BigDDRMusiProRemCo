@@ -46,6 +46,11 @@ class Application_Form_User extends Zend_Form {
         $pwdElement = $form->getElement('confirm_password');
         $pwdElement->setLabel('Confirm Password');
 
+        $form->addElement('text', 'gb_users_invite_code');
+        $inviteElement = $form->getElement('gb_users_invite_code');
+        $inviteElement->setLabel('Invite Code');
+        $inviteElement->setRequired(true);
+
         // Add Last Element - Submit Button
         $form->addElement('submit', 'save');
         $submitElement = $form->getElement('save');

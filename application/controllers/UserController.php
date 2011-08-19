@@ -87,7 +87,11 @@ class UserController extends Zend_Controller_Action {
                             'gb_users_password' => $password);
 
             $this->usermodel = new Application_Model_User();
-            $this->view->stuff = $this->usermodel->saveUser($data);
+
+            $invite = $this->_request->getParam("gb_users_invite_code");
+            //$this->usermodel->checkInvite($invite, $email);
+
+            //$this->view->stuff = $this->usermodel->saveUser($data);
 
         } else {
             $form_obj = new Application_Form_User();

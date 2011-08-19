@@ -17,7 +17,11 @@ class Bootstrap extends Zend_Application_Bootstrap_Bootstrap
         }        
     }
 
-
+    protected function _initAdmin() {
+        $tmp = $this->getOptions();
+        $this->view->smtpsettings = $tmp['mysmtp'];
+        //$this->view->debug = $this->smtpsettings;
+    }
 
     protected function _initErrors() {
         
