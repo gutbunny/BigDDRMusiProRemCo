@@ -5,7 +5,7 @@
   <title><?php echo ($this->title != '' ?  $this->title : "Shep's Very Very Low Tuition Institution of Higher Learning" ); ?></title>
   <?php echo $this->headLink()->appendStylesheet('/css/global.css') ?>
   <script type="text/javascript" src="/js/mootools-core-1.3.2-full-compat.js"></script>
-  <script type="text/javascript" src="gb_mootools_custom.js"></script>
+  <script type="text/javascript" src="/js/gb_mootools_custom.js"></script>
 </head>
 <body class="shep-style">
     <center>
@@ -35,14 +35,14 @@
         <div id="header-login" style="float:right;">
             <?php if(!$this->user) : ?>
             <form action="/user/login" name="loginform" method="POST">
-                <input name="gb_users_email" type="text" style="width: 120px;" value="email">
-                <input name="gb_users_password" type="password" style="width: 120px;" value="xxxxxx">
-                <input name="login_submit" type="submit" value="Login">
+                <input name="gb_users_email" type="text" style="width: 120px;" value="email"/>
+                <input name="gb_users_password" type="password" style="width: 120px;" value="xxxxxx"/>
+                <input name="login_submit" type="submit" value="Login"/>
             </form>
             <?php else : ?>
             <div class="user-welcome" style="text-align:right;">
                 Welcome <?php echo $this->user['gb_users_firstname'] . " " . $this->user['gb_users_lastname']; ?>
-                <br><a href="/user/logout">Logout</a>
+                <br/><a href="/user/logout">Logout</a>
             </div>
             <?php endif; ?>
 

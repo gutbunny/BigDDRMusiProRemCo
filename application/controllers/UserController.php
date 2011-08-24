@@ -22,6 +22,11 @@ class UserController extends Zend_Controller_Action {
                           ->setExit(false)
                           ->setGotoSimple("loginpage",
                                           "user");
+
+        //set up contextSwitch for AJAX requests
+        $contextSwitch = $this->_helper->getHelper('contextSwitch');
+        $contextSwitch->addActionContext('edituser', 'json')
+                        ->initContext();
     }
 
     
@@ -43,6 +48,7 @@ class UserController extends Zend_Controller_Action {
             && !strstr($_SERVER['REQUEST_URI'], 'logout')
             && !strstr($_SERVER['REQUEST_URI'], 'login')
             && !strstr($_SERVER['REQUEST_URI'], 'addnewuser')
+            && !strstr($_SERVER['REQUEST_URI'], 'sandbox')
             && $_SERVER['REQUEST_URI'] != '/'
         ) {
             

@@ -25,18 +25,25 @@ root {
     background-color: #999966;
     background-image: url('/images/footer_gradient_999966.png');
     background-repeat: repeat-x;
-    height: 130px;
-    width:1000px;
+   /* height: 130px; NOW CONTROLLED IN gb_mootools_custom.js */
+   height: 1px;
+   width:1000px;
 }
 
 #header-logo {
     margin-left: 20px;
     color: #fff;
+    /* opacity now handled by gb_mootools_custom.js */
+    opacity: 0;
 }
 
 #header-navigation {
     /* margin-right: 20px; */
     background-color: #000;
+    opacity: 0;
+ /*    width: 1px;
+    height: 1px;
+    NOW CONTROLLED IN gb_mootools_custom.js */
 }
 
 #header-navigation ul {
@@ -66,9 +73,16 @@ root {
 #header-login {
     margin-right: 20px;
     margin-top: 5px;
+    /* NOW CONTROLLED IN gb_mootools_custom.js 
+    */
+    opacity: 0;
 }
 
+
+
 .content-wrapper {
+
+    
     background-color: #fff;
     width: 960px;
     text-align: left;
