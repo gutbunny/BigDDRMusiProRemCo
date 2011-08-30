@@ -49,6 +49,7 @@ class UserController extends Zend_Controller_Action {
             && !strstr($_SERVER['REQUEST_URI'], 'login')
             && !strstr($_SERVER['REQUEST_URI'], 'addnewuser')
             && !strstr($_SERVER['REQUEST_URI'], 'sandbox')
+            && !strstr($_SERVER['REQUEST_URI'], 'ajax')
             && $_SERVER['REQUEST_URI'] != '/'
         ) {
             

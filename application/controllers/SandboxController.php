@@ -18,9 +18,11 @@ class SandboxController extends Zend_Controller_Action {
 
     public function indexAction()
     {
-            $form_obj = new Application_Form_Sandbox();
-            $form = $form_obj->getSandboxForm();
-            $this->view->form = $form;
+
+        $channel = new Zend_Feed_Rss('http://www.prisonplanet.com/feed.rss');
+        foreach ($channel as $item) {
+           $this->view->feeds []= $item;
+        }
     }
 }
 ?>
